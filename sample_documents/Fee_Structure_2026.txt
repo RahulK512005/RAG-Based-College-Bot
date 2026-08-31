@@ -1,0 +1,40 @@
+# Global Institute of Technology & Management - Academic Fee Structure (Academic Year 2026-2027)
+
+## 1. Annual Tuition Fees by Program
+Tuition fees are payable per academic year in two equal semester installments.
+
+- B.Tech in Computer Science and Engineering (CSE):
+  - Annual Tuition Fee: INR 1,85,000 per year
+  - Semester Installment: INR 92,500
+- B.Tech in Artificial Intelligence & Data Science (AI & DS):
+  - Annual Tuition Fee: INR 1,75,000 per year
+  - Semester Installment: INR 87,500
+- B.Tech in Electronics & Communication Engineering (ECE):
+  - Annual Tuition Fee: INR 1,50,000 per year
+  - Semester Installment: INR 75,000
+- B.Tech in Mechanical / Civil Engineering:
+  - Annual Tuition Fee: INR 1,25,000 per year
+  - Semester Installment: INR 62,500
+- Master of Business Administration (MBA):
+  - Annual Tuition Fee: INR 2,20,000 per year
+
+## 2. One-Time Charges (Payable at Admission)
+- Admission Registration Fee: INR 5,000 (Non-refundable)
+- Institutional Caution Deposit: INR 10,000 (Refundable upon course completion)
+- Alumni Association Lifetime Membership: INR 3,000
+- Library & Digital Resources Fee: INR 7,000 (One-time)
+
+## 3. Examination and Laboratory Fees
+- Semester Examination Fee: INR 2,500 per semester
+- Advanced Computing / Innovation Lab Fee: INR 4,000 per semester
+
+## 4. Payment Modes & Late Fine Policy
+- Accepted payment methods: Net Banking, NEFT/RTGS, UPI, and Demand Draft favoring "GITM Academic Fund".
+- Due date for Odd Semester fee: August 10, 2026.
+- Due date for Even Semester fee: January 15, 2027.
+- Late Fee: INR 100 per day after the due date up to 15 days, after which student registration will be temporarily suspended.
+
+## 5. Fee Refund Policy
+- 100% refund (less INR 1,000 processing fee) if withdrawal notice received 15 days prior to orientation.
+- 80% refund if withdrawal within 15 days after orientation.
+- No refund of tuition fee after 30 days from the start of academic classes.

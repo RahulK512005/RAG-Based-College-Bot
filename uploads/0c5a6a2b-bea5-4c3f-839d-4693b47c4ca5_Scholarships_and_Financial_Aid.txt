@@ -1,0 +1,24 @@
+# Global Institute of Technology & Management - Scholarship & Financial Aid Schemes
+
+## 1. Merit-Based Entrance Scholarships
+- Category 1 (JEE Main Rank 1 to 5,000 or SEEE Rank 1 to 100):
+  - 100% Tuition Fee Waiver for all 4 years.
+- Category 2 (JEE Main Rank 5,001 to 15,000 or SEEE Rank 101 to 500):
+  - 75% Tuition Fee Waiver for the first year.
+- Category 3 (Class 12th Board PCM >= 95% aggregate):
+  - 50% Tuition Fee Waiver for the first year.
+
+## 2. Need-Based & Economically Weaker Section (EWS) Financial Aid
+- Family annual income below INR 3,00,000: Up to 50% tuition fee concession upon submission of government income certificate and asset verification.
+- Single Parent / Orphan Student Grant: 50% tuition fee waiver and subsidized hostel accommodation.
+
+## 3. Women in Technology & Diversity Scholarship
+- "Pragati Tech Fellowship": INR 50,000 annual scholarship awarded to top 30 female engineering students entering CSE, AI/DS, and ECE programs.
+
+## 4. Sports & Extra-Curricular Excellence Scholarship
+- National-level medalists in recognized sports: 100% sports scholarship + free hostel.
+- State-level medalists: 50% sports scholarship.
+
+## 5. Renewal Criteria for Continuous Scholarships
+- Students must maintain a minimum SGPA / CGPA of 8.5 at the end of each academic year.
+- No history of disciplinary misconduct or attendance shortage below 75%.

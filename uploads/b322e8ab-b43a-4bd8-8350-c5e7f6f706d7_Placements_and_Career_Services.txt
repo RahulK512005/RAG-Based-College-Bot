@@ -1,0 +1,25 @@
+# Global Institute of Technology & Management - Placement & Career Development Report (2025-2026)
+
+## 1. Placement Statistics Highlights
+- Overall Placement Rate: 94.8% eligible students placed across engineering disciplines.
+- Highest International Salary Package: INR 52.5 LPA (Offered by Microsoft Redmond).
+- Highest Domestic Salary Package: INR 44.0 LPA (Offered by Amazon Web Services).
+- Average Salary Package across B.Tech: INR 11.2 LPA.
+- Median Salary Package: INR 9.8 LPA.
+- Total Recruiter Visits: 210+ Tier-1 tech giants, multinational corporations, and high-growth startups.
+
+## 2. Top Participating Recruiters
+- Software & Cloud: Google, Microsoft, Amazon, Adobe, Oracle, Salesforce, Atlassian.
+- Consulting & Analytics: McKinsey & Company, Boston Consulting Group, Deloitte, PwC, EY.
+- Core Engineering: Texas Instruments, Qualcomm, Bosch, Larsen & Toubro, Tata Motors.
+- FinTech & Banking: Goldman Sachs, Morgan Stanley, JP Morgan Chase, Barclays.
+
+## 3. Placement Eligibility & Selection Policy
+1. Academic Criteria: Minimum CGPA of 6.5 (or 65% aggregate) with no active backlogs at the time of company registration.
+2. "One Student, One Job" Dream Policy: Once a student secures an offer, they can only apply for a "Dream Company" offer (offering >= 1.5x of the current package).
+3. Compulsory Pre-Placement Training: Minimum 80% attendance in coding bootcamps, mock interviews, and soft skills workshops conducted by the Career Development Cell (CDC).
+
+## 4. Internship Policy
+- Mandatory 8-week summer internship at the end of the 6th semester.
+- Average monthly internship stipend for 2026: INR 45,000 / month.
+- Highest monthly internship stipend: INR 1,25,000 / month (Uber).

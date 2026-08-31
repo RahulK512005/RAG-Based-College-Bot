@@ -7,6 +7,7 @@ export const api = axios.create({
   headers: {
     'Content-Type': 'application/json',
   },
+  timeout: 45000,
 });
 
 // Request interceptor: Attach JWT token
@@ -26,9 +27,24 @@ api.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.response?.status === 401) {
-      // Clear token on auth failure
       localStorage.removeItem('college_rag_token');
       localStorage.removeItem('college_rag_user');
+    }
+
+    // Friendly error detection for missing or unreachable backend API
+    if (!error.response) {
+      if (typeof window !== 'undefined' && window.location.hostname !== 'localhost') {
+        return Promise.reject(
+          new Error('Backend API unreachable. Please configure VITE_API_BASE_URL in Vercel settings.')
+        );
+      }
+      return Promise.reject(new Error('Cannot connect to backend server. Make sure it is running on port 8000.'));
+    }
+
+    if (error.response?.status === 404) {
+      return Promise.reject(
+        new Error('Backend API endpoint not found. Ensure VITE_API_BASE_URL ends with /api.')
+      );
     }
     
     const message =
